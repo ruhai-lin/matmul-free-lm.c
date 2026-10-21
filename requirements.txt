@@ -1,0 +1,10 @@
+flash-linear-attention==0.5.2
+huggingface_hub
+numpy
+pytest
+requests
+safetensors
+sentencepiece
+torch
+tqdm
+wandb

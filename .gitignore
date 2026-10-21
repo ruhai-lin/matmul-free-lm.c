@@ -1,0 +1,11 @@
+*.bin
+data
+out/
+*.pt
+*.pyc
+__pycache__/
+references/
+run
+test
+!tokenizer.bin
+!tok512.bin
